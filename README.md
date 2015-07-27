@@ -1,2 +1,2 @@
 # files
-images,js,css,html and font files
+   @FOR IMG,CSS,JS,HTML and FONT Files
